@@ -1,0 +1,6 @@
+streamlit
+pdf2image
+pytesseract
+layoutparser
+openai
+sentence-transformers

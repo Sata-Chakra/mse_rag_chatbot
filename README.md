@@ -98,3 +98,5 @@ By default, ChromaDB stores data in chroma_db/ in your project root.
 
         Only str, int, float, bool, None are supported in metadata fields. JSON-encode dicts/lists if needed.
 
+## License
+This project is free to use, but please give credit to the author by linking back to the [GitHub repository](https://github.com/Sata-Chakra).
